@@ -1,6 +1,6 @@
 Format For Commits:
 
-(Subject)
+(Subject) // Brief overview of what you did like Refactored intake code or deleted intake outtake method. Should be more specific than robot works
 
 (-Bullet
 -Points
@@ -10,6 +10,6 @@ Format For Commits:
 (-Any ongoing problems
 -Plans for anything after)
 
-For Quick/Small commits:
+For Quick/Small commits(Always commit at the end of every meeting): 
 
-(1-2 Sentence descriptiong)
+(Subject)
