@@ -1,4 +1,4 @@
-Format For commits:
+Format For Commits:
 
 (Subject)
 
@@ -9,3 +9,7 @@ Format For commits:
 
 (-Any ongoing problems
 -Plans for anything after)
+
+For Quick/Small commits:
+
+(1-2 Sentence descriptiong)
